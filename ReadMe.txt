@@ -94,10 +94,11 @@ The analysis presented in that work is carried out in a variety of formats (R, b
 	     # Part4p3_AnalyzeTopicResults.m 
 	 	This script reads the results of the topic model assignments and generates barplot figures for prevalence of each topic within each sample and top taxa represented within each topic. 
 
-	     The sections of the script are as follows: 
+	    The sections of the script are as follows: 
 		# Load data and sort metadata chronologically 
-		# Make time series of co-occurrence community proportions - Figure 5 
-		# Make barplots of co-occurrence community species - Figure S4 
+		# Make time series of co-occurrence community proportions side by side 
+		# Make barplots of co-occurrence props and community species for small phytos - Figure 4 
+		# Make barplots of co-occurrence props and community species for chlorophyta - Figure S5
 
 
 
